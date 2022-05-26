@@ -9,5 +9,6 @@
     <orderEntry type="module" module-name="Decorators" />
     <orderEntry type="module" module-name="Ficsture" />
     <orderEntry type="module" module-name="Calculator tests" />
+    <orderEntry type="module" module-name="Telegramm-Bot" />
   </component>
 </module>

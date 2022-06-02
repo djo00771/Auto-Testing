@@ -1,7 +1,6 @@
 import pytest
 from app.calculator import Calculator
-from datetime import datetime
-from app.settings import positive_data_division, positive_data_multiply,\
+from data.settings import positive_data_division, positive_data_multiply,\
     positive_data_subtraction, positive_data_adding, negative_data_division, \
     negative_data_multiply, negative_data_subtraction, negative_data_adding
 
